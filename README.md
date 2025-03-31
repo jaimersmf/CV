@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Jaime Relea Sastre
-
 🎓 Graduate in **Computer Engineering (Computational track)** from EHU/UPV. Passionate about leveraging **data science**, **data analysis**, and **machine learning** to solve real-world problems.
 
 🚀 Actively seeking a **Junior** position in **Data Science**, **Data Analysis**, or similar, where I can grow, learn modern technologies, and contribute to impactful projects.
